@@ -1,0 +1,10 @@
+C:\Users\305-11\Desktop\Шумкова Татьяна ПР-21\prakt11_zad1\prakt11_zad1\bin\Debug\prakt11_zad1.exe.config
+C:\Users\305-11\Desktop\Шумкова Татьяна ПР-21\prakt11_zad1\prakt11_zad1\bin\Debug\prakt11_zad1.exe
+C:\Users\305-11\Desktop\Шумкова Татьяна ПР-21\prakt11_zad1\prakt11_zad1\bin\Debug\prakt11_zad1.pdb
+C:\Users\305-11\Desktop\Шумкова Татьяна ПР-21\prakt11_zad1\prakt11_zad1\obj\Debug\prakt11_zad1.csproj.AssemblyReference.cache
+C:\Users\305-11\Desktop\Шумкова Татьяна ПР-21\prakt11_zad1\prakt11_zad1\obj\Debug\prakt11_zad1.Form1.resources
+C:\Users\305-11\Desktop\Шумкова Татьяна ПР-21\prakt11_zad1\prakt11_zad1\obj\Debug\prakt11_zad1.Properties.Resources.resources
+C:\Users\305-11\Desktop\Шумкова Татьяна ПР-21\prakt11_zad1\prakt11_zad1\obj\Debug\prakt11_zad1.csproj.GenerateResource.cache
+C:\Users\305-11\Desktop\Шумкова Татьяна ПР-21\prakt11_zad1\prakt11_zad1\obj\Debug\prakt11_zad1.csproj.CoreCompileInputs.cache
+C:\Users\305-11\Desktop\Шумкова Татьяна ПР-21\prakt11_zad1\prakt11_zad1\obj\Debug\prakt11_zad1.exe
+C:\Users\305-11\Desktop\Шумкова Татьяна ПР-21\prakt11_zad1\prakt11_zad1\obj\Debug\prakt11_zad1.pdb
